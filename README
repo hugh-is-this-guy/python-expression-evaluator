@@ -1,0 +1,6 @@
+"Expression Evaluator"... more commonly know as a calculator.
+
+Simple program I made to brush up my Python.
+
+Takes a string, parses it into a tree taking into account the order each operation should be executed, and then 
+calculates the value of each "node" by recursively calculating that node's nodes... nodes?
